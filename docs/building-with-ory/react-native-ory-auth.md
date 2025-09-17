@@ -1,6 +1,7 @@
 ---
 id: react-native-ory-auth
 title: Adding Authentication with Ory to a React Native App
+author: Igor Silva
 sidebar_label: React Native Auth Integration
 description: Step-by-step guide on how to integrate Ory Kratos authentication in a React Native app.
 ---

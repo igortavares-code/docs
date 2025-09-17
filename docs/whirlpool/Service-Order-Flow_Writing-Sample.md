@@ -1,6 +1,6 @@
 ---
-title: "Service Order Flow Redesign — Writing Sample (Brastemp & Consul)"
-author: "Andrean (sample)"
+title: "Service Order Flow Redesign (Brastemp & Consul)"
+author: "Igor Silva"
 description: "A concise, business-oriented and technical documentation sample showing how I structure, explain, and humanize complex flows."
 ---
 
